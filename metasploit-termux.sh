@@ -5,17 +5,17 @@ echo "=============="
 echo
 sleep 2
 echo
-echo "       ,           ,  "
-echo "    /             \  "
-echo "   ((__---,,,---__))  "
-echo "      (_) O O (_)_________  "
-echo "         \ _ /            |\  "
-echo "          o_o \   M S F   | \  "
-echo "               \   _____  |  *  "
-echo "                |||   WW|||     "
-echo "                |||     |||     "
-echo "
-echo        
+echo "       ,           , "
+echo "    /             \ "
+echo "   ((__---,,,---__)) "
+echo "      (_) O O (_)_________ "
+echo "         \ _ /            |\ "
+echo "          o_o \   M S F   | \ "
+echo "               \   _____  |  * "
+echo "                |||   WW||| "
+echo "                |||     ||| "
+echo "                             "
+echo
 sleep 2
 echo
 sleep 2
