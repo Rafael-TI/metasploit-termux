@@ -24,8 +24,8 @@ echo
 echo "====================="
 echo "instalando metasploit"
 echo "===================="
-apt install unstable-repo -y 
-apt install  metasploit -y  
+pkg install unstable-repo -y 
+pkg install  metasploit -y  
 sleep 2
 echo 
 echo "==================="
