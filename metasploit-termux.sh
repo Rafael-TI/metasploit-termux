@@ -5,9 +5,17 @@ echo "=============="
 echo
 sleep 2
 echo
-echo "====================="
-echo  "Metasploit Framework"
-echo "====================="
+echo "       ,           , "
+echo "    /             \ "
+echo "   ((__---,,,---__)) "
+echo "      (_) O O (_)_________ "
+echo "         \ _ /            |\ "
+echo "          o_o \   M S F   | \ "
+echo "               \   _____  |  * "
+echo "                |||   WW||| "
+echo "                |||     ||| "
+echo "
+echo        
 sleep 2
 echo
 sleep 2
@@ -24,8 +32,8 @@ echo
 echo "====================="
 echo "instalando metasploit"
 echo "===================="
-pkg install unstable-repo -y 
-pkg install  metasploit -y  
+apt install unstable-repo -y 
+apt install  metasploit -y  
 sleep 2
 echo 
 echo "==================="
