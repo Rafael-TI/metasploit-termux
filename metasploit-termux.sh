@@ -31,9 +31,7 @@ sleep 2
 echo
 echo "====================="
 echo "instalando metasploit"
-echo "===================="
-apt install unstable-repo -y 
-apt install  metasploit -y  
+echo "======================"
 sleep 2
 echo 
 echo "==================="
