@@ -34,6 +34,10 @@ echo "instalando metasploit"
 echo "======================"
 sleep 2
 echo 
+pkg install unstable-repo -y 
+pkg install metasploit -y 
+sleep 7
 echo "==================="
 echo "instalaçao completa"
 echo "==================="
+msfconsole
